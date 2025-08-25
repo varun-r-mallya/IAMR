@@ -9,3 +9,7 @@ f/
 o/
 chk?????.old*
 plt?????.old*
+tmp_build_dir/
+build/
+AMReX_buildInfo.cpp
+
