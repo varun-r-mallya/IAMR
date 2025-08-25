@@ -1,6 +1,6 @@
 #AMREX_HOME defines the directory in which we will find the AMReX directory
-AMREX_HOME       ?= ../../../amrex
-AMREX_HYDRO_HOME ?= ../../../AMReX-Hydro
+AMREX_HOME       ?= /usr/local/amrex
+AMREX_HYDRO_HOME ?= /usr/local/AMReX-Hydro
 
 #TOP defines the directory in which we will find Source, Exec, etc.
 TOP = ../..
